@@ -12,7 +12,7 @@ PowerBI projekt obsahuje čtyři hlavní datové tabulky:
 - Analýza dodací spolehlivosti
 - Počet objednávek celkově i kvartálně
 
-## 2. **Zákazníci (Customers)**
+2. **Zákazníci (Customers)**
 - Informace o zákanicích a jejich umístění (země, město)
 - Metody platby
 - Tržby a hodnota zákazníků
