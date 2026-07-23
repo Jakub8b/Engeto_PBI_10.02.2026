@@ -1,8 +1,8 @@
-# Engeto PowerBI Projekt - Analýza Logistiky
+Engeto PowerBI Projekt - Analýza Logistiky
 
 Tento repozitář obsahuje **PowerBI Dashboard** pro analýzu logistických a supply chain dat. Projekt sleduje objednávky, zákazníky, produkty a dodavatele.
 
-## Struktura Dashboardu
+Struktura Dashboardu
 
 PowerBI projekt obsahuje čtyři hlavní datové tabulky:
 
